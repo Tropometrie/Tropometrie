@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Ishaq!
 🌐 I’m currently working on a web application  
 🖥️ I’m currently learning fullstack development  
 ⛰️ I love climbing and hiking  
